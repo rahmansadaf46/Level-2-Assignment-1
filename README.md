@@ -1,6 +1,6 @@
 # TypeScript Types, Interfaces, and keyof: A Quick Guide
 
-Welcome to this simple blog on TypeScript's **types**, **interfaces**, and the **keyof** keyword! This Blog is written for beginners to quickly grasp these concepts with a clear, easy explanation and examples.
+Welcome to this simple blog on TypeScript's **types**, **interfaces**, and the **keyof** keyword. This Blog is written for beginners to quickly grasp these concepts with a clear, easy explanation and examples.
 
 ## Types vs. Interfaces
 
